@@ -65,3 +65,24 @@ https://www.amazon.co.jp/dp/4822283496/ref=cm_sw_r_tw_dp_U_x_WgOkDb0SBJV0N
 
 
 ![image](https://user-images.githubusercontent.com/25860926/61178855-e52c3a00-a631-11e9-9dea-3e902556638b.png)
+
+ちな属性とは集合の要素が共通に持つ性質
+
+## レッスン３顧客と配送先
+
+会員顧客が自宅、勤務先等の複数の住所を登録しておき、商品注文時に送り先を選べるようにしたい。
+
+![image](https://user-images.githubusercontent.com/25860926/61180363-1d427580-a650-11e9-81c1-61e7d3a8e63e.png)
+
+ユーザーはクレジットカードを１枚登録可能 → １ - 0..1の関係
+別のユーザーが同じクレジットカードを登録した場合であっても、別のインスタンスとして扱う。
+
+![image](https://user-images.githubusercontent.com/25860926/61180547-02bdcb80-a653-11e9-8ee5-0f242c099a7f.png)
+
+
+
+
+
+
+
+
