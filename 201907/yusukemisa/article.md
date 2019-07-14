@@ -99,6 +99,13 @@ https://www.amazon.co.jp/dp/4822283496/ref=cm_sw_r_tw_dp_U_x_WgOkDb0SBJV0N
 
 ![image](https://user-images.githubusercontent.com/25860926/61181279-08b9a980-a65f-11e9-9e89-09007ad3251e.png)
 
+# 第４章 種類とものに分けて整理する
+
+## パターン３ 種類とモノ
+
+両者の関係性が全体集合と部分集合で部分集合同士の積集合がない場合、そして部分集合に固有の性質がない場合はパターン3 種類とモノを適用する。
+
+![image](https://user-images.githubusercontent.com/25860926/61181631-1160ae80-a664-11e9-9be8-283cd1e7f422.png)
 
 
 
