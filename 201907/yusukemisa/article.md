@@ -79,6 +79,12 @@ https://www.amazon.co.jp/dp/4822283496/ref=cm_sw_r_tw_dp_U_x_WgOkDb0SBJV0N
 
 ![image](https://user-images.githubusercontent.com/25860926/61180547-02bdcb80-a653-11e9-8ee5-0f242c099a7f.png)
 
+# 第３章 分類して整理する
+
+## パターン１ 全体集合と部分集合
+全体集合として共通の性質に加えて部分集合固有の性質がある
+
+![image](https://user-images.githubusercontent.com/25860926/61180958-f9842d00-a659-11e9-89f9-521c5782fce6.png)
 
 
 
