@@ -61,5 +61,7 @@ https://www.amazon.co.jp/dp/4822283496/ref=cm_sw_r_tw_dp_U_x_WgOkDb0SBJV0N
 
 ## 顧客の属性
 顧客の名称として個人の場合は氏名、法人の場合は社名を管理したい。
-それぞれの顧客毎に連絡用のメールアドレスを管理したい。
+それぞれの顧客毎に連絡用のメールアドレスを管理したい。こんな図になる
 
+
+![image](https://user-images.githubusercontent.com/25860926/61178855-e52c3a00-a631-11e9-9dea-3e902556638b.png)
