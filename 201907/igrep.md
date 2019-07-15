@@ -16,8 +16,10 @@
     - index.html を書き出す処理
         - 相対パスの扱いがめんどうなのでリファクタリング。
     - JSONを取得した後にHTMLに変換する処理の追加。テストはまだ。
-    
+
 # その他
 
-開発中のスクショが入ったtweetです。ご利用ください。  
-<https://twitter.com/igrep/status/1150313636780396544>
+- 開発中のスクショが入ったtweetです。ご利用ください。  
+  <https://twitter.com/igrep/status/1150313636780396544>
+- 上記を含め、`#mokumoku_onsen` ハッシュタグを付けてつぶやいたことは適当に使っちゃって大丈夫です！  
+  <https://twitter.com/search?f=tweets&q=%23mokumoku_onsen%20from%3Aigrep&src=typd>
