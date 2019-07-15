@@ -15,3 +15,9 @@
 - [haskell-jp/slack-log - Convert to HTML to publish on GitHub Pages #13](https://github.com/haskell-jp/slack-log/issues/13)の解決
     - index.html を書き出す処理
         - 相対パスの扱いがめんどうなのでリファクタリング。
+    - JSONを取得した後にHTMLに変換する処理の追加。テストはまだ。
+    
+# その他
+
+開発中のスクショが入ったtweetです。ご利用ください。  
+<https://twitter.com/igrep/status/1150313636780396544>
