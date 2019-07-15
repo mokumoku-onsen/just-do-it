@@ -2,10 +2,10 @@
 2019/7/14
 
 ## やることチェックリスト  
--[x] 今日報告が来たバグの修正
+-[x] 報告が来たバグの修正
 -[x] ずっと解決できていないApacheの修正
 
-## 今日報告が来たバグの修正
+## 報告が来たバグの修正
 - MongoDBに、ブランクのデータが挿入される  
 csvでデータを投入するよう設定していたので、ブランクのデータを事前に削除して解決
 - MongoDBから取得するデータが、ソートされていない  
@@ -19,6 +19,7 @@ after
 ```javascript
 Model.find({}, {}, { sort: { sort_key: 1 } })
 ```
+[参考](https://qiita.com/n0bisuke/items/6db3ca0bc4fb7fcbd442)
 
 ## ずっと解決できなかったApacheの修正
 ### 目的
@@ -46,5 +47,5 @@ RewriteRule (.*) index.html [L,QSA]
 - [静的なサイトに JavaScript のルーターを導入する](https://qiita.com/masakielastic/items/2d43829edbac51ea366c)
 
 ### 謝辞
-ほぼ、[なかひこ君](https://twitter.com/takanakahiko)に助けてもらいました！  
+ほぼほぼ、[なかひこ君](https://twitter.com/takanakahiko)に助けてもらいました！  
 まじでありがとう！！！！！
