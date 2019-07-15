@@ -25,7 +25,7 @@ https://www.amazon.co.jp/dp/4798052582/ref=cm_sw_r_tw_dp_U_x_0NPkDbRQTX87B
 写経をするにあたり、開発環境はDockerで構築しています。
 docker-compose.ymlはこんな感じです。
 
-```docker-compose.yml
+```yml:docker-compose.yml
 version: '3'
 
 services:
@@ -92,3 +92,9 @@ LavavelではDBの設定をconfig/database.phpと.envにそれぞれ定義する
 
 最後に旅館で取った写真をあげて終わりにしたいと思います。
 ありがとうございました。
+
+
+![Imgur](https://i.imgur.com/pIVvK6w.jpg)
+![Imgur](https://i.imgur.com/MvZWSfE.jpg)
+![Imgur](https://i.imgur.com/3RCrWo4.jpg)
+![Imgur](https://i.imgur.com/EqKeeqV.jpg)
