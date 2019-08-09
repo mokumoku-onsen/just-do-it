@@ -1,3 +1,10 @@
+# 概要
+
+| Name | tabunmuri |
+|:-----------|:------------|
+| Job | Infra Engineer |
+| Twitter | https://twitter.com/tabunmuri255 |
+
 ## やること
 - [x] Twitterを閉じる
     - 何度でも立ち上がってくる。
@@ -12,10 +19,10 @@
     - 電凸する
         - 無慈悲に散る
     - 結局請求書を送ってもらえれば、送金ができた
-    - :thinking:
+    - 🤔🤔🤔
 - [x] 買い物をする
 - [x] shの設定を直す
-feature/add-admin-users
+
 ## 残ったこと
 - [ ] NeoBundle から dein.vim に乗り換える
     - https://qiita.com/delphinus/items/00ff2c0ba972c6e41542
@@ -26,3 +33,6 @@ feature/add-admin-users
 - もくもく温泉の作業やボードゲームを通してプロジェクトマネジメントを勉強しているうちに合宿が終わってしまった
 - 今度は誰かに温泉マスターを任せて、集中して開発したい
   - つうか、bitwardenは早くどうにかしたい。
+- よかったことは、ゴールドスポンサー枠できてくれた人たちが快く開発合宿の運営を手伝ってくれたこと
+- 酒とご飯がうますぎる
+    - 福利厚生で開発合宿いきてぇ… 
